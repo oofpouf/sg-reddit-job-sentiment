@@ -1,3 +1,4 @@
+# fetch data from reddit
 import praw 
 from .config import REDDIT_CLIENT_ID, REDDIT_SECRET, REDDIT_USER_AGENT
 
